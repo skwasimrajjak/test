@@ -2,3 +2,5 @@ This is a test file for me to learn and me to practice.
 I can include the che cheate sheet if possible and we will do it great. 
 Thank You.
 Learning git is awesome.
+
+The use of git is in learning phase and we hope to do it on a good amount.S
